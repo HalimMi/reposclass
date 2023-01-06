@@ -1,0 +1,2 @@
+# reposclass
+our class meeting
